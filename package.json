@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "deploy" : "gh-pages -d portafolio 1"
+  }
+}

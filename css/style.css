@@ -119,6 +119,9 @@ h1{
     justify-content: center;
     margin-bottom: 20px;
 }
+.titulo h2{
+    font-size: 1.8rem;
+}
 .presentacion-items{
     list-style: none;
     display: flex;

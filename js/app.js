@@ -48,7 +48,14 @@ const reviews = [
     tecnologias: 'HTML - CSS - JAVASCRIPT',
     text: 'Contador Básico',
     link: 'Proyectos/contador/index.html',
-    }
+    },
+    {
+      id: 8,
+      name: 'Paleta de colores Random',
+      tecnologias: 'HTML - CSS - JAVASCRIPT',
+      text: 'Paleta de colores con una nueva funcionalidad, el color cambia varias veces según un valor númerico que también es aleatorio entre 1-25.',
+      link: 'Proyectos/Generador de fondo random/index.html',
+      }
 ];
   // select items
 const author = document.getElementById('author');
